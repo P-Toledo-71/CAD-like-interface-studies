@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/qtdrw">
+        <file>line.png</file>
+        <file>select.png</file>
+    </qresource>
+</RCC>
